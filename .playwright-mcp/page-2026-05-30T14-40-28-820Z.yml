@@ -1,0 +1,112 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a pricing card component with a title, price, list of features, and a call-to-action button
+            - img [ref=e57]
+          - generic [ref=e73]:
+            - img [ref=e76]
+            - generic [ref=e81]:
+              - generic [ref=e84]: Creating /App.jsx
+              - separator [ref=e85]
+              - generic [ref=e86]:
+                - paragraph [ref=e87]: "Done! I've created a pricing card component with:"
+                - list [ref=e88]:
+                  - listitem [ref=e89]:
+                    - strong [ref=e90]: Bold dark background
+                    - text: with gradient for visual depth
+                  - listitem [ref=e91]:
+                    - strong [ref=e92]: Two card variants
+                    - text: — standard and highlighted (Enterprise tier gets emphasis with amber ring and scale)
+                  - listitem [ref=e93]:
+                    - strong [ref=e94]: Strong typography
+                    - text: — large, bold price with tight tracking
+                  - listitem [ref=e95]:
+                    - strong [ref=e96]: Custom checkmark icons
+                    - text: in circles instead of generic list bullets
+                  - listitem [ref=e97]:
+                    - strong [ref=e98]: Distinctive styling
+                    - text: — frosted glass effect on standard cards, warm amber accents
+                  - listitem [ref=e99]:
+                    - strong [ref=e100]: Interactive hover states
+                    - text: — cards scale up on hover, buttons have active states
+                  - listitem [ref=e101]:
+                    - strong [ref=e102]: Responsive design
+                    - text: — works on all screen sizes
+                - paragraph [ref=e103]: The component is reusable and accepts props for title, price, features, and button text.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e104]:
+        - generic [ref=f4e3]:
+          - generic [ref=f4e5]:
+            - generic [ref=f4e6]:
+              - heading "Professional" [level=3] [ref=f4e7]
+              - paragraph [ref=f4e8]: Perfect for growing teams
+            - generic [ref=f4e10]:
+              - generic [ref=f4e11]: $49
+              - generic [ref=f4e12]: /month
+            - list [ref=f4e13]:
+              - listitem [ref=f4e14]:
+                - img [ref=f4e16]
+                - generic [ref=f4e18]: Up to 50 projects
+              - listitem [ref=f4e19]:
+                - img [ref=f4e21]
+                - generic [ref=f4e23]: Advanced analytics
+              - listitem [ref=f4e24]:
+                - img [ref=f4e26]
+                - generic [ref=f4e28]: Priority support
+              - listitem [ref=f4e29]:
+                - img [ref=f4e31]
+                - generic [ref=f4e33]: Custom integrations
+              - listitem [ref=f4e34]:
+                - img [ref=f4e36]
+                - generic [ref=f4e38]: Team collaboration tools
+              - listitem [ref=f4e39]:
+                - img [ref=f4e41]
+                - generic [ref=f4e43]: API access
+            - button "Get Started" [ref=f4e44] [cursor=pointer]
+          - generic [ref=f4e46]:
+            - generic [ref=f4e47]:
+              - heading "Enterprise" [level=3] [ref=f4e48]
+              - paragraph [ref=f4e49]: For large-scale operations
+            - generic [ref=f4e51]:
+              - generic [ref=f4e52]: $199
+              - generic [ref=f4e53]: /month
+            - list [ref=f4e54]:
+              - listitem [ref=f4e55]:
+                - img [ref=f4e57]
+                - generic [ref=f4e59]: Unlimited projects
+              - listitem [ref=f4e60]:
+                - img [ref=f4e62]
+                - generic [ref=f4e64]: Real-time analytics
+              - listitem [ref=f4e65]:
+                - img [ref=f4e67]
+                - generic [ref=f4e69]: 24/7 dedicated support
+              - listitem [ref=f4e70]:
+                - img [ref=f4e72]
+                - generic [ref=f4e74]: Custom integrations
+              - listitem [ref=f4e75]:
+                - img [ref=f4e77]
+                - generic [ref=f4e79]: Advanced team management
+              - listitem [ref=f4e80]:
+                - img [ref=f4e82]
+                - generic [ref=f4e84]: API access
+              - listitem [ref=f4e85]:
+                - img [ref=f4e87]
+                - generic [ref=f4e89]: SLA guarantee
+            - button "Contact Sales" [ref=f4e90] [cursor=pointer]
+  - alert [ref=e50]
